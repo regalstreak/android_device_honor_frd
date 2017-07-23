@@ -20,5 +20,4 @@ TARGET_SCREEN_WIDTH := 1080
 
 PRODUCT_GMS_CLIENTID_BASE := android-huawei
 
-PRODUCT_NAME := lineage_frd
 TARGET_VENDOR := huawei
